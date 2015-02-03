@@ -1,0 +1,24 @@
+Project Tasks:
+Whats left to do
+
+    Features:
+    New features to add
+
+        Stamps:
+         ☐ Add stamps drawer @A
+         ☐ Add stamp preview
+         ☐ Make all stamps draw at 100% opacity
+             ☐ Reflect change in settings screen
+         ☑ Add sparkles effect @C  (12-11-28 00:01)
+
+     ☐ Crop saved image to actual drawn size @B
+     ☑ Add ability to base drawing on image :) @B  (12-11-27 19:05)
+     ☐ Pinch to zoom image @B
+         save original in buffer?
+     ☐ Add a tapered brush
+     ☐ Cancel button for use image button @A
+
+     Bugs:
+     Bugs to squash!
+     ☑ Add cancel button to save menu @A  (12-11-27 12:19)
+     ☑ 3.5 inch constraints saved @B  (12-11-27 12:18)
